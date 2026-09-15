@@ -1,0 +1,17 @@
+{
+  "name": "michael-seo-skills",
+  "owner": {
+    "name": "Michael"
+  },
+  "plugins": [
+    {
+      "name": "semantic-cocoons",
+      "source": "./plugins/semantic-cocoons",
+      "description": "Проектирует и развивает семантические коконы: entity-first архитектуру, внутреннюю перелинковку и максимально полезное покрытие темы.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Michael"
+      }
+    }
+  ]
+}
